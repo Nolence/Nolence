@@ -10,6 +10,13 @@ Passionate about programming and learning.
 ## [async_button_builder](https://pub.dev/packages/async_button_builder)
 ![Build](https://github.com/Nolence/async_button_builder/workflows/Build/badge.svg) [![melos](https://img.shields.io/badge/maintained%20with-melos-f700ff.svg?style=flat-square)](https://github.com/invertase/melos)
 
+## Learnin' Rust
+
+| | |
+:-------------------------:|:-------------------------:
+https://user-images.githubusercontent.com/29642168/146605381-ef3cf259-ef51-483b-bac7-6a52a001cd78.mp4  |  https://user-images.githubusercontent.com/29642168/146605567-a52d1dd9-ab06-434f-808e-3381c3943fe6.mp4
+https://user-images.githubusercontent.com/29642168/146605752-6524355f-e898-4ed9-880c-fdbb034068bf.mp4  | 
+
 
 ## Simulation Gifs
 
