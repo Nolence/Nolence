@@ -4,15 +4,6 @@ Passionate about programming, learning new things and staying indoors.
 
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=Nolence&show_icons=true)
 
-# Current Interests
-
-* [Rust](https://github.com/rust-lang/rust)
-* [Flutter/Dart](https://github.com/flutter/flutter)
-* [Node/visual programming](https://github.com/enso-org/enso)
-* [Containers](https://github.com/docker)
-* [Games programming and shader art](https://github.com/bevyengine/bevy)
-* [NLP with Hugging Face 🤗](https://huggingface.co/)
-
 # Open Source Libs
 
 ## [just_the_tooltip](https://pub.dev/packages/just_the_tooltip)
@@ -40,6 +31,15 @@ Passionate about programming, learning new things and staying indoors.
 | | | |
 :-------------------------:|:-------------------------:|:-------------------------:
 ![sneg](assets/rust/sneg.png)  |  ![error](assets/rust/sponge.png)  |   ![elevated](assets/rust/star_field.png)
+
+# Current Interests
+
+* [Rust](https://github.com/rust-lang/rust)
+* [Flutter/Dart](https://github.com/flutter/flutter)
+* [Node/visual programming](https://github.com/enso-org/enso)
+* [Containers](https://github.com/docker)
+* [Games programming and shader art](https://github.com/bevyengine/bevy)
+* [NLP with Hugging Face 🤗](https://huggingface.co/)
 
 # Simulation Gifs 👾
 
