@@ -25,7 +25,7 @@ Passionate about programming, learning new things and staying indoors.
 ## [async_button_builder](https://pub.dev/packages/async_button_builder)
 ![Build](https://github.com/Nolence/async_button_builder/workflows/Build/badge.svg) [![melos](https://img.shields.io/badge/maintained%20with-melos-f700ff.svg?style=flat-square)](https://github.com/invertase/melos)
 
-| | |
+| | | |
 :-------------------------:|:-------------------------:|:-------------------------:
 ![custom](assets/open_source/async_button/custom.gif)  |  ![error](assets/open_source/async_button/error.gif)  |   ![elevated](assets/open_source/async_button/elevated.gif)
 
