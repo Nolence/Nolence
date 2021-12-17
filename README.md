@@ -37,6 +37,10 @@ Passionate about programming, learning new things and staying indoors.
 
 ## [Learnin' Rust Videos 🎥](./videos.md)
 
+| | | |
+:-------------------------:|:-------------------------:|:-------------------------:
+![sneg](assets/rust/sneg.png)  |  ![error](assets/rust/sponge.png)  |   ![elevated](assets/rust/star_field.png)
+
 # Simulation Gifs 👾
 
 | | | |
