@@ -1,8 +1,19 @@
-Passionate about programming and learning.
+# Rex 🦕
+
+Passionate about programming, learning new things and staying indoors.
 
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=Nolence&show_icons=true)
 
-## Open Source Libs
+# Current Interests
+
+* [Rust](https://github.com/rust-lang/rust)
+* [Flutter/Dart](https://github.com/flutter/flutter)
+* [Node/visual programming](https://github.com/enso-org/enso)
+* [Containers](https://github.com/docker)
+* [Games programming and shader art](https://github.com/bevyengine/bevy)
+* [NLP with Hugging Face 🤗](https://huggingface.co/)
+
+# Open Source Libs
 
 ## [just_the_tooltip](https://pub.dev/packages/just_the_tooltip)
 ![Build](https://github.com/Nolence/just_the_tooltip/workflows/Build/badge.svg)
@@ -14,9 +25,19 @@ Passionate about programming and learning.
 ## [async_button_builder](https://pub.dev/packages/async_button_builder)
 ![Build](https://github.com/Nolence/async_button_builder/workflows/Build/badge.svg) [![melos](https://img.shields.io/badge/maintained%20with-melos-f700ff.svg?style=flat-square)](https://github.com/invertase/melos)
 
+| | |
+:-------------------------:|:-------------------------:|:-------------------------:
+![custom](assets/open_source/async_button/custom.gif)  |  ![error](assets/open_source/async_button/error.gif)  |   ![elevated](assets/open_source/async_button/elevated.gif)
+
+## [skill_tree](https://pub.dev/packages/skill_tree)
+
+| Skill tree package | WoW classic tree |
+:-------------------------:|:-------------------------:
+![skill tree](assets/open_source/skill_tree/skill_tree.gif)  |   ![Wow tree](assets/open_source/skill_tree/wow_tree.png)
+
 ## [Learnin' Rust Videos 🎥](./videos.md)
 
-## Simulation Gifs 👾
+# Simulation Gifs 👾
 
 | | | |
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -24,7 +45,7 @@ Passionate about programming and learning.
 ![music player](assets/simulations/music_player.gif)  |  ![purple rain](assets/simulations/purple_rain.gif)  |   ![solar system](assets/simulations/solar_system.gif)
 
 
-## Dribbble Recreations
+# Dribbble Recreations
 <sub>\*Designs are not mine. Credit goes to respective designers.\*<sub>
 
 | | | |
