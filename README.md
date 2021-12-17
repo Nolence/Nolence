@@ -7,12 +7,16 @@ Passionate about programming and learning.
 ## [just_the_tooltip](https://pub.dev/packages/just_the_tooltip)
 ![Build](https://github.com/Nolence/just_the_tooltip/workflows/Build/badge.svg)
 
+| | | |
+:-------------------------:|:-------------------------:|:-------------------------:
+![tooltip app](assets/open_source/just_the_tooltip/tooltip_app.png)  |  ![tooltip positioning](assets/open_source/just_the_tooltip/ezgif-2-3ef406bb2022.gif)  |   ![fancy tooltip](assets/open_source/just_the_tooltip/fancy.png)
+
 ## [async_button_builder](https://pub.dev/packages/async_button_builder)
 ![Build](https://github.com/Nolence/async_button_builder/workflows/Build/badge.svg) [![melos](https://img.shields.io/badge/maintained%20with-melos-f700ff.svg?style=flat-square)](https://github.com/invertase/melos)
 
-## [Learnin' Rust](./videos.md)
+## [Learnin' Rust Videos 🎥](./videos.md)
 
-## Simulation Gifs
+## Simulation Gifs 👾
 
 | | | |
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -21,6 +25,7 @@ Passionate about programming and learning.
 
 
 ## Dribbble Recreations
+<sub>\*Designs are not mine. Credit goes to respective designers.\*<sub>
 
 | | | |
 :-------------------------:|:-------------------------:|:-------------------------:
